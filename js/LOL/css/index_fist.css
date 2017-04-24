@@ -1,0 +1,165 @@
+body{
+margin: 0px;
+}
+.main_2{
+	width: 100%;
+	height: 500px;
+	position: relative;
+	bottom: 25px;
+   
+	
+}
+.main_1{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+	position: relative;
+	bottom: 20px;
+}
+ li{
+    color:azure;
+    list-style: none;
+    float: left;
+    padding-left: 110px;
+}
+span{
+	font-weight:bold;
+	text-align: center;
+	line-height:15px; 
+	text-align:center; 
+	display:block;
+	position:relative;
+	bottom: 20px;
+}
+.banbenhao{
+	 position:absolute;
+     bottom:400px;
+     left: 70%;
+     color: chartreuse;
+}
+.banbenhao em{
+	color: #00FFFF;
+	opacity: 0.5;
+	position: relative;
+}
+.banbenhao a{
+	color: #00FFFF;
+	text-decoration: none;
+}
+
+.erweima{
+	position: fixed;
+	left:94%;
+	bottom:400px;
+}
+.main_2 h2{
+    font-size: 40px;
+   color: deepskyblue;
+   position: relative;
+   bottom: 600px;
+   left: 150px;
+}
+.main_2 p{
+   color:#5F9EA0;
+   position: relative;
+   bottom:620px;
+   left: 150px;
+}
+.main_2 a{
+	font-size:20px;
+   color:#00FFFF;
+   position: relative;
+   bottom:600px;
+   left: 150px;
+   text-decoration: none;
+}
+.main_3{
+	width: 95%;
+	height: 150px;
+    position: relative;
+    bottom:60px;
+	background-color:darkcyan;
+	margin: 0 auto;
+}
+
+.xiazai{
+	float: left;
+	height: 150px;
+	width: 220px;
+	background-color: coral;
+}
+.xiazai img{
+	 height: 150px;
+	 width: 220px;
+}
+
+.libao_1{
+	float: left;
+	height: 150px;
+	width: 112px;
+	background-color: #5F9EA0;	
+
+}
+.libao_2{
+	float: left;
+	height: 150px;
+	width: 112px;
+	background-color: #5F9EA0;
+	
+}
+.libao_3{
+	float: left;
+	height: 150px;
+	width: 112px;
+	background-color: #5F9EA0;
+
+}
+.libao_4{
+	float: left;
+	height: 150px;
+	width: 112px;
+	background-color: #5F9EA0;
+}
+.libao_5{
+	float: left;
+	height: 150px;
+	width: 112px;
+	background-color: #5F9EA0;
+
+}
+.denglu_zhuxiao{
+	float: left;
+	height: 150px;
+	width: 460px;
+	background-color:#C1CFE8;
+}
+
+.div_1{
+	position: relative;
+	bottom: 60px;
+	left: 400px;
+}
+.denglu_zhuxiao img{
+	  float: left;
+      position: relative;
+      top: 25px;
+      left: 15px;
+      width: 80px;
+      height: 80px;
+}
+.denglu_zhuxiao p{
+	  display: block;
+      position: relative;
+      left:65px;
+      font-family: "楷体"; 
+      
+}
+.denglu_zhuxiao span{
+	  display: block;
+      position: relative;
+      right: 40px;
+      top: 10px;
+      font-family: "楷体"; 
+}
+
+
